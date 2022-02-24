@@ -11,6 +11,7 @@ Ce document vous fournira aussi quelques astuces et informations sur la manière
 * [Appréhendez les limites d'un code de débutant](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/apprehendez-limites-code-debutant)
 * [Isolez l'affichage du traitement PHP](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/isolez-affichage-traitement-php)
 * [Isolez l'accès aux données](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/isolez-acces-donnees)
+* [Soignez la cosmétique](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/soignez-cosmetique)
 
 ## Installation
 
@@ -22,7 +23,7 @@ De plus, ce projet nécessite l'utilisation d'une base de données MySQL. Vous d
 
 ### Configuration
 
-Une fois que vous avez installé votre serveur MySQL, vous pouvez remplacer les identifiants utilisés dans le code par les votre. Dans le fichier `blog/index.php`, à la ligne 5 :
+Une fois que vous avez installé votre serveur MySQL, vous pouvez remplacer les identifiants utilisés dans le code par les votre. Dans le fichier `blog/src/model.php`, à la ligne 6 :
 
 ```php
 $database = new PDO('mysql:host=localhost;dbname=blog;charset=utf8', 'blog', 'password');
