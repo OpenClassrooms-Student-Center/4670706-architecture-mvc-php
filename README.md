@@ -10,6 +10,7 @@ Ce document vous fournira aussi quelques astuces et informations sur la manière
 
 * [Appréhendez les limites d'un code de débutant](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/apprehendez-limites-code-debutant)
 * [Isolez l'affichage du traitement PHP](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/isolez-affichage-traitement-php)
+* [Isolez l'accès aux données](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/isolez-acces-donnees)
 
 ## Installation
 
@@ -21,10 +22,10 @@ De plus, ce projet nécessite l'utilisation d'une base de données MySQL. Vous d
 
 ### Configuration
 
-Une fois que vous avez installé votre serveur MySQL, vous pouvez remplacer les identifiants utilisés dans le code par les votre. Dans le fichier `blog/index.php`, à la ligne 17 :
+Une fois que vous avez installé votre serveur MySQL, vous pouvez remplacer les identifiants utilisés dans le code par les votre. Dans le fichier `blog/index.php`, à la ligne 5 :
 
 ```php
-$bdd = new PDO('mysql:host=localhost;dbname=blog;charset=utf8', 'blog', 'password');
+$database = new PDO('mysql:host=localhost;dbname=blog;charset=utf8', 'blog', 'password');
 ```
 
 Vous devriez aussi remplir votre base de données. Vous pouvez charger le schéma par défaut (et quelques données), contenu dans le fichier `db.sql`. Pour ce faire, vous pouvez utiliser votre interface d'administration MySQL, ou bien lancer la commande suivante, si vous êtes sous Linux :
