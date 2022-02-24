@@ -9,6 +9,7 @@ Ce document vous fournira aussi quelques astuces et informations sur la manière
 ## Étapes
 
 * [Appréhendez les limites d'un code de débutant](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/apprehendez-limites-code-debutant)
+* [Isolez l'affichage du traitement PHP](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/isolez-affichage-traitement-php)
 
 ## Installation
 
