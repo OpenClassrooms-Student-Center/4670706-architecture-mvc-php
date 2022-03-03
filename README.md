@@ -13,6 +13,7 @@ Ce document vous fournira aussi quelques astuces et informations sur la manière
 * [Isolez l'accès aux données](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/isolez-acces-donnees)
 * [Soignez la cosmétique](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/soignez-cosmetique)
 * [Affichez des commentaires](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/affichez-commentaires)
+* [Créez un template de page](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/creez-template-page)
 
 ## Installation
 
