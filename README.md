@@ -15,6 +15,7 @@ Ce document vous fournira aussi quelques astuces et informations sur la manière
 * [Affichez des commentaires](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/affichez-commentaires)
 * [Créez un template de page](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/creez-template-page)
 * [Créez un routeur](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/creez-routeur)
+* [Ajoutez des commentaires](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/ajoutez-commentaires)
 
 ## Installation
 
