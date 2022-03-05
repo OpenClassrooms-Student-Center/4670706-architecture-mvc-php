@@ -17,6 +17,7 @@ Ce document vous fournira aussi quelques astuces et informations sur la manière
 * [Créez un routeur](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/creez-routeur)
 * [Ajoutez des commentaires](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/ajoutez-commentaires)
 * [Gérez les erreurs](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/gerez-erreurs)
+* [Structurez vos données](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/structurez-donnees)
 
 ## Installation
 
