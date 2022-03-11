@@ -18,6 +18,7 @@ Ce document vous fournira aussi quelques astuces et informations sur la manière
 * [Ajoutez des commentaires](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/ajoutez-commentaires)
 * [Gérez les erreurs](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/gerez-erreurs)
 * [Structurez vos données](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/structurez-donnees)
+* [Donnez vie à vos structures](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/donnez-vie-structures)
 
 ## Installation
 
