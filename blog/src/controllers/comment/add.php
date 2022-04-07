@@ -1,6 +1,6 @@
 <?php
 
-namespace Application\Controllers\AddComment;
+namespace Application\Controllers\Comment\Add;
 
 require_once('src/lib/database.php');
 require_once('src/model/comment.php');

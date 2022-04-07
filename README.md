@@ -22,6 +22,7 @@ Ce document vous fournira aussi quelques astuces et informations sur la manière
 * [Tirez parti de la composition](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/tirez-parti-composition)
 * [Utilisez les namespaces](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/utilisez-namespaces)
 * [Modifiez un commentaire](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/modifiez-commentaire)
+* [Final](https://github.com/OpenClassrooms-Student-Center/4670706-architecture-mvc-php/tree/final)
 
 ## Installation
 
